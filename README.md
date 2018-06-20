@@ -5,5 +5,5 @@
 * 修正3
 ‘<html lang="ja"‘>
 [グーグル](http://google.com)
-![avatar](images/icon/jpg)
+![avatar](images/icon.png)
 ---
